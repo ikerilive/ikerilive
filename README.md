@@ -32,10 +32,10 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [E-Commerce DevOps Pipeline](https://github.com/ikerilive/ecommerce-devops-pipeline) | Complete CI/CD pipeline with Kubernetes, Terraform, ArgoCD, AWS | AWS, Terraform, Docker, GitHub Actions, Kubernetes |
+| [E-Commerce DevOps Pipeline](https://github.com/ikerilive/ultimate-devops-project-demo) | Complete CI/CD pipeline with Kubernetes, Terraform, ArgoCD, AWS | AWS, Terraform, Docker, GitHub Actions, Kubernetes |
 | [Restaurant Ordering Web App](https://github.com/ikerilive/restaurant-ordering-app) | Deployed Node.js app with GCP & MongoDB, separate frontend & backend | Node.js, Express.js, MongoDB, GCP |
 | [GitHub–JIRA Automation](https://github.com/ikerilive/github-jira-automation) | Flask backend automating JIRA ticket creation via GitHub webhooks | Python, Flask, GitHub Webhooks |
-| [Python Automation Scripts](https://github.com/ikerilive/python-automation-scripts) | Handy Python scripts for cloud automation & error reduction | Python, Bash, AWS SDK |
+| [Python Automation Scripts](https://github.com/ikerilive/Capstone_Python) | Handy Python scripts for cloud automation & error reduction | Python, Bash, AWS SDK |
 
 ---
 
