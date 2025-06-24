@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Darlington Ikeri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3EC2F5&center=true&vCenter=true&width=435&lines=Aspiring+DevOps+Engineer;(Cloud+%7C+Automation+%7C+IaC+Enthusiast);(Python+%7C+Bash+%7C+CI%2FCD+Pipeline+Lover)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3EC2F5&center=true&vCenter=true&width=435&lines=Aspiring+DevOps+Engineer; Cloud+%7C+Automation+%7C+IaC+Enthusiast; Python+%7C+Bash+%7C+CI%2FCD+Pipeline+Lover" alt="Typing SVG" />
 </p>
 
 ---
