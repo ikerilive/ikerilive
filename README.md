@@ -11,10 +11,11 @@
 🚀 **Aspiring DevOps Engineer** passionate about building scalable, automated infrastructure using:
 
 - ☁️ **Cloud:** AWS (EC2, S3, Route53, VPC), GCP  
-- 🛠️ **Tools:** Docker, GitHub Actions, Jenkins  
+- 🛠️ **Tools:** Docker, GitHub Actions, Jenkins, Kali Linux, Metasploit, Burp Suite  
 - ⚙️ **Automation:** Terraform, Ansible, Bash, Python  
 - 🧰 **Version Control & Monitoring:** Git, GitHub, Jira  
-- 📊 **Extras:** Python for Automation, Data Visualization, ML basics  
+- 📊 **Extras:** Python for Automation, Data Visualization, ML basics
+- 🔒 **Cybersecurity:** Web Exploitation, SQL Injection, Reverse Shells, Privilege Escalation (Windows CVE Exploitation), msfvenom, Meterpreter, SMB Enumeration, Pivoting, RDP access     
 
 🎯 Currently pursuing B.Eng. in ICT at **Jamk University of Applied Sciences**, Finland.  
 
