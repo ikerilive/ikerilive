@@ -51,6 +51,11 @@
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-3F8DF7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlmap-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CyberChef-1F8ACB?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
