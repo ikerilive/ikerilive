@@ -33,7 +33,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [CI/CD Full Stack App] (https://github.com/ikerilive/ci-cd-fullstack-app) | CI/CD pipeline for a containerized React + Node.js app deployed via Render | GitHub Actions, Docker, ESLint, Jest, Render |
+| [CI/CD Full Stack App](https://github.com/ikerilive/ci-cd-fullstack-app) | CI/CD pipeline for a containerized React + Node.js app deployed via Render | GitHub Actions, Docker, ESLint, Jest, Render |
 | [E-Commerce DevOps Pipeline](https://github.com/ikerilive/ultimate-devops-project-demo) | Complete CI/CD pipeline with Kubernetes, Terraform, ArgoCD, AWS | AWS, Terraform, Docker, GitHub Actions, Kubernetes |
 | [Restaurant Ordering Web App](https://github.com/ikerilive/fullstack-restaurant-project) | Deployed Node.js app with GCP & MongoDB, separate frontend & backend | Node.js, Express.js, MongoDB, GCP |
 | [GitHub–JIRA Automation](https://github.com/ikerilive/github-jira-automation) | Flask backend automating JIRA ticket creation via GitHub webhooks | Python, Flask, GitHub Webhooks |
